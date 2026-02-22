@@ -2,6 +2,7 @@
 .env
 config.json
 *.log
+*.png
 
 # --- Python Junk ---
 __pycache__/
