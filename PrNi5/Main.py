@@ -54,6 +54,5 @@ async def wplot(ctx, cid_str):
         await ctx.send(embed=result)
 
 
-
     
 bot.run(token, log_handler=handler, log_level=logging.DEBUG)
