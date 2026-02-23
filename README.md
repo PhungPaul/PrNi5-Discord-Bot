@@ -1,4 +1,4 @@
-<img width="752" height="411" alt="image" src="https://github.com/user-attachments/assets/e3e87623-c510-4694-882a-d0681d826d96" /># Chemistry-Integrated Discord Bot
+# Chemistry-Integrated Discord Bot
 
 Developed during high school, this project represents the intersection of my passions for Software Development and Chemical Science. Recognizing Discord as a primary hub for student collaboration, I built this bot to provide seamless access to high-fidelity chemical data. By integrating the PubChem API, the bot allows users to retrieve accurate molecular properties and data points instantly within a chat interface, bridging the gap between social connectivity and academic research.
 
@@ -24,5 +24,6 @@ Data Visualization
 
 **📈 Molecular Weight Plotting**
 
-<img width="1087" height="633" alt="image" src="https://github.com/user-attachments/assets/e0588f67-dd27-4b19-af11-28ba796a8f77" />
+<img width="1087" height="633" alt="image" src="https://github.com/user-attachments/assets/38028967-ce5d-4f46-9c0b-e4225ce587fc" />
+
 
